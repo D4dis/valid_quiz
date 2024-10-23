@@ -33,6 +33,6 @@ $questions = [
     'question' => 'La boucle for ($i=0 ; $i<=3 ; $i++ ) { echo $i;
   }...',
     'options' => ['Sera éxécutée 2 fois', 'Sera éxécutée 3 fois', 'Sera éxécutée 4 fois'],
-    'answer' => 'Sera éxécutée 3 fois',
+    'answer' => 'Sera éxécutée 4 fois',
   ]
 ];
